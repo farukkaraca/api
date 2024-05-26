@@ -1,0 +1,132 @@
+[
+  {
+    "text": "The weather seems nice today, doesn't it?",
+    "imageUrl": null,
+    "options": [
+      "What's your favorite color?",
+      "Have you ever been to Paris?",
+      "Do you like pizza?",
+      "The weather seems nice today, doesn't it?",
+      "Where do you work?"
+    ],
+    "answerIndex": 3,
+    "selectedIndex": -1
+  },
+  {
+    "text": "I need to finish my homework before dinner.",
+    "imageUrl": null,
+    "options": [
+      "I need to finish my homework before dinner.",
+      "Have you watched the latest movie?",
+      "Would you like to go for a walk?",
+      "What time is it?",
+      "Do you have any siblings?"
+    ],
+    "answerIndex": 0,
+    "selectedIndex": -1
+  },
+  {
+    "text": "Learning a new language can be challenging, but also rewarding.",
+    "imageUrl": null,
+    "options": [
+      "How was your day?",
+      "Do you play any musical instruments?",
+      "Would you like a cup of tea?",
+      "What's your favorite season?",
+      "Learning a new language can be challenging, but also rewarding.",
+    ],
+    "answerIndex": 4,
+    "selectedIndex": -1
+  },
+  {
+    "text": "Traffic was terrible this morning, I was almost late for work.",
+    "imageUrl": null,
+    "options": [
+      "Did you see the new exhibition at the museum?",
+      "Traffic was terrible this morning, I was almost late for work.",
+      "Would you like to try this new recipe?",
+      "Have you ever traveled abroad?",
+      "What do you do for fun?"
+    ],
+    "answerIndex": 1,
+    "selectedIndex": -1
+  },
+  {
+    "text": "I'm thinking about redecorating my living room.",
+    "imageUrl": null,
+    "options": [
+      "How do you like your coffee?",
+      "What's your opinion on the latest fashion trends?",
+      "I'm thinking about redecorating my living room.",
+      "Have you read any good books lately?",
+      "Do you enjoy hiking?"
+    ],
+    "answerIndex": 2,
+    "selectedIndex": -1
+  },
+  {
+    "text": "The concert last night was amazing, I had a great time.",
+    "imageUrl": null,
+    "options": [
+      "Would you like to go to the beach this weekend?",
+      "The concert last night was amazing, I had a great time.",
+      "Have you ever tried sushi?",
+      "What's your favorite holiday?",
+      "Do you believe in ghosts?"
+    ],
+    "answerIndex": 1,
+    "selectedIndex": -1
+  },
+  {
+    "text": "I'm planning a trip to the mountains next month.",
+    "imageUrl": null,
+    "options": [
+      "I'm planning a trip to the mountains next month.",
+      "Do you prefer cats or dogs?",
+      "Have you ever been scuba diving?",
+      "Would you like to learn how to cook?",
+      "What's your dream job?"
+    ],
+    "answerIndex": 0,
+    "selectedIndex": -1
+  },
+  {
+    "text": "It's important to stay hydrated, especially during hot weather.",
+    "imageUrl": null,
+    "options": [
+      "Do you like going to the gym?",
+      "Have you ever tried meditation?",
+      "What's your favorite type of music?",
+      "It's important to stay hydrated, especially during hot weather.",
+      "Are you a morning person?"
+    ],
+    "answerIndex": 3,
+    "selectedIndex": -1
+  },
+  {
+    "text": "My phone battery died in the middle of an important call.",
+    "imageUrl": null,
+    "options": [
+      "Do you enjoy going to concerts?",
+      "Would you like to visit space if given the opportunity?",
+      "What's your favorite movie genre?",
+      "My phone battery died in the middle of an important call.",
+      "Have you ever been to a music festival?"
+    ],
+    "answerIndex": 3,
+    "selectedIndex": -1
+  },
+  {
+    "text": "I'm trying to cut down on sugar in my diet.",
+    "imageUrl": null,
+    "options": [
+      "I'm trying to cut down on sugar in my diet.",
+      "Do you like to dance?",
+      "What's your favorite type of cuisine?",
+      "Have you ever tried bungee jumping?",
+      "Do you have any pets?"
+    ],
+    "answerIndex": 0,
+    "selectedIndex": -1
+  }
+]
